@@ -113,7 +113,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Sakshi Patil**
+**Sakshta Patil**
 
 GitHub: https://github.com/sakshtapatil
 
