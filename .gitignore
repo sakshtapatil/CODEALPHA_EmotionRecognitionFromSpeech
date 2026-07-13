@@ -10,8 +10,7 @@ __pycache__/
 
 # Model files
 models/*.h5
-models/*.keras
-models/*.pkl
+
 
 # Output files
 outputs/
